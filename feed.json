@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://berhen.com/holdings/",
+            "url": "https://berhen.com/holdings/",
+            "title": "HOLDINGS",
+            "summary": "Ab Softbreezze Ltd www.softbreeze.io QPON www.qpon.ax",
+            "content_html": "<p>Ab Softbreezze Ltd<br><a href=\"http://www.softbreeze.io\">www.softbreeze.io</a></p>\n<p>QPON<br><a href=\"http://www.qpon.ax\">www.qpon.ax</a></p>\n<p> </p>",
+            "author": {
+                "name": "Berhen Group"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-03-27T23:41:14+03:00",
+            "date_modified": "2022-03-27T23:41:14+03:00"
+        },
+        {
             "id": "https://berhen.com/solutions/",
             "url": "https://berhen.com/solutions/",
             "title": "Solutions",

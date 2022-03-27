@@ -3,7 +3,7 @@
     <title>Berhen Group</title>
     <link href="https://berhen.com/feed.xml" rel="self" />
     <link href="https://berhen.com" />
-    <updated>2022-03-27T23:49:07+03:00</updated>
+    <updated>2022-03-27T23:54:56+03:00</updated>
     <author>
         <name>Berhen Group</name>
     </author>
@@ -17,15 +17,19 @@
         <link href="https://berhen.com/holdings/"/>
         <id>https://berhen.com/holdings/</id>
 
-        <updated>2022-03-27T23:45:50+03:00</updated>
+        <updated>2022-03-27T23:54:56+03:00</updated>
             <summary>
                 <![CDATA[
-                    Ab Softbreezze Ltd www.softbreeze.io QPON www.qpon.ax
+                    With global investment in green energy on the rise, there are abundant opportunities for environmentally responsible, financially sound investments. Ab Softbreezze Ltd www.softbreeze.io&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Ab Softbreezze Ltd<br><a href="http://www.softbreeze.io">www.softbreeze.io</a></p>
+                <p>With global investment in green energy on the rise, there are abundant opportunities for environmentally responsible, financially sound investments. </p>
+<p> </p>
+<hr>
+<p>Ab Softbreezze Ltd<br><a href="http://www.softbreeze.io">www.softbreeze.io</a></p>
+<hr>
 <p>QPON<br><a href="http://www.qpon.ax">www.qpon.ax</a></p>
 <p> </p>
             ]]>

@@ -3,7 +3,7 @@
     <title>Berhen Group</title>
     <link href="https://berhen.com/feed.xml" rel="self" />
     <link href="https://berhen.com" />
-    <updated>2022-03-28T02:09:12+03:00</updated>
+    <updated>2022-03-28T02:12:37+03:00</updated>
     <author>
         <name>Berhen Group</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://berhen.com/subscribe/"/>
         <id>https://berhen.com/subscribe/</id>
 
-        <updated>2022-03-28T02:09:12+03:00</updated>
+        <updated>2022-03-28T02:12:37+03:00</updated>
             <summary>
                 <![CDATA[
                     Features Everything in Standard: Advanced Roles Folders Security Approval Workflow View &amp; troubleshoot your device's OS remotely Proof-of-play Reporting Features Everything in Pro:&hellip;
@@ -29,6 +29,32 @@
 <figure class="post__image"><img loading="lazy"  src="https://berhen.com/media/files/SignOnLogo.png" data-is-external-image="true"  alt="" width="760" height="302"></figure>
 <table class="align-center" style="border-collapse: collapse; width: 757px; border-color: #000000; border-style: solid;" border="1">
 <tbody>
+<tr>
+<td style="width: 295.797px;">
+<div id="comp-ks9560q2" class="_1Q9if" data-testid="richTextElement">
+<h2 class="font_2">STANDARD</h2>
+</div>
+<div id="comp-ks9560q33" class="_1ncY2">
+<div class="_13Lxq" data-testid="container-bg"><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.60181em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">€ 23,90<br>+ VAT<br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">per screen<br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">per month</span></div>
+</div>
+</td>
+<td style="width: 203.297px;">
+<div id="comp-ks9560q2" class="_1Q9if" data-testid="richTextElement">
+<h2 class="font_2">PRO</h2>
+</div>
+<div id="comp-ks9560q33" class="_1ncY2">
+<div class="_13Lxq" data-testid="container-bg"><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.60181em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">€ 29,90<br>+ VAT<br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">per screen<br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">per month</span></div>
+</div>
+</td>
+<td style="width: 257.906px;">
+<div id="comp-ks9560q2" class="_1Q9if" data-testid="richTextElement">
+<h2 class="font_2">ENTERPRISE</h2>
+</div>
+<div id="comp-ks9560q33" class="_1ncY2">
+<div class="_13Lxq" data-testid="container-bg"><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.60181em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">€ 37,90<br>+ VAT<br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">per screen<br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">per month</span></div>
+</div>
+</td>
+</tr>
 <tr>
 <td style="width: 295.797px;"><button class="snipcart-add-item" data-item-id="10" data-item-name="Signon Digital Signage Standard" data-item-price="23.90" data-item-image="https://berhen.com/media/files/SignOnLogo.png" data-item-weight="10" data-item-url="https://berhen.com/subscribe/" data-item-description="Signon Digital Signage Standard">Standard</button></td>
 <td style="width: 203.297px;"><button class="snipcart-add-item" data-item-id="20" data-item-name="Signon Digital Signage Professional" data-item-price="29.90" data-item-image="https://berhen.com/media/files/SignOnLogo.png" data-item-weight="10" data-item-url="https://berhen.com/subscribe/" data-item-description="Signon Digital Signage Professional">Professional</button></td>

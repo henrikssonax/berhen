@@ -3,21 +3,33 @@
     <title>Berhen Group Ab</title>
     <link href="https://berhen.com/feed.xml" rel="self" />
     <link href="https://berhen.com" />
-    <updated>2022-03-27T22:59:32+03:00</updated>
+    <updated>2022-03-27T23:08:03+03:00</updated>
     <author>
         <name>Berhen Group</name>
     </author>
     <id>https://berhen.com</id>
 
     <entry>
-        <title>OUR SOLUTIONS</title>
+        <title>SOLUTIONS</title>
+        <author>
+            <name>Berhen Group</name>
+        </author>
+        <link href="https://berhen.com/solutions/"/>
+        <id>https://berhen.com/solutions/</id>
+
+        <updated>2022-03-27T23:08:03+03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>SIGNON</title>
         <author>
             <name>Berhen Group</name>
         </author>
         <link href="https://berhen.com/our-solutions-2/"/>
         <id>https://berhen.com/our-solutions-2/</id>
 
-        <updated>2022-03-27T22:59:32+03:00</updated>
+        <updated>2022-03-27T23:07:37+03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[

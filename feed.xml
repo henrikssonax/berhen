@@ -3,12 +3,32 @@
     <title>Berhen Group</title>
     <link href="https://berhen.com/feed.xml" rel="self" />
     <link href="https://berhen.com" />
-    <updated>2022-03-28T00:15:27+03:00</updated>
+    <updated>2022-03-28T01:20:49+03:00</updated>
     <author>
         <name>Berhen Group</name>
     </author>
     <id>https://berhen.com</id>
 
+    <entry>
+        <title>Subscribe</title>
+        <author>
+            <name>Berhen Group</name>
+        </author>
+        <link href="https://berhen.com/subscribe/"/>
+        <id>https://berhen.com/subscribe/</id>
+
+        <updated>2022-03-28T01:20:49+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Subscribe Signon Std
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><button class="snipcart-add-item" data-item-id="1" data-item-name="Signon Digital Signage Std" data-item-price="5.00" data-item-image="https://boring-bose-80b3c8.netlify.com/media/posts/1/responsive/2544765-1-md.png" data-item-weight="10" data-item-url="https://berhen.com" data-item-description="Signon Digital Signage Std"> Subscribe Signon Std </button></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Our engagements </title>
         <author>

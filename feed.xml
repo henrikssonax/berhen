@@ -3,7 +3,7 @@
     <title>Berhen Group Ab</title>
     <link href="https://berhen.com/feed.xml" rel="self" />
     <link href="https://berhen.com" />
-    <updated>2022-03-27T23:08:03+03:00</updated>
+    <updated>2022-03-27T23:26:23+03:00</updated>
     <author>
         <name>Berhen Group</name>
     </author>
@@ -49,22 +49,30 @@
         </content>
     </entry>
     <entry>
-        <title>THE TEAM</title>
+        <title>Meet the team</title>
         <author>
             <name>Berhen Group</name>
         </author>
         <link href="https://berhen.com/the-team/"/>
         <id>https://berhen.com/the-team/</id>
 
-        <updated>2022-03-27T18:43:15+03:00</updated>
+        <updated>2022-03-27T23:26:23+03:00</updated>
             <summary>
                 <![CDATA[
-                    NIKLAS &nbsp; &nbsp; &nbsp; Meet the Executive Creative Director, Niklas Berlin Niklas responsible for providing creative insights to the company in designing and&hellip;
+                    Meet us Truly innovative teams are a bit ruthless with each other. They speak their mind and challenge ideas until they can make&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
+    <h2 id="meet-us">
+      Meet us
+    </h2>
+
+  <p>
+    Truly innovative teams are a bit ruthless with each other. They speak their mind and challenge ideas until they can make them work. <br><br><br><br>
+  </p>
+
     <h2 id="niklas">
       NIKLAS
     </h2>

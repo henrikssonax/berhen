@@ -3,7 +3,7 @@
     <title>Berhen Group</title>
     <link href="https://berhen.com/feed.xml" rel="self" />
     <link href="https://berhen.com" />
-    <updated>2022-03-28T02:17:40+03:00</updated>
+    <updated>2022-03-28T02:18:30+03:00</updated>
     <author>
         <name>Berhen Group</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://berhen.com/subscribe/"/>
         <id>https://berhen.com/subscribe/</id>
 
-        <updated>2022-03-28T02:17:40+03:00</updated>
+        <updated>2022-03-28T02:18:30+03:00</updated>
             <summary>
                 <![CDATA[
                     STANDARD € 23,90 + VAT per screen per month PRO € 29,90 + VAT per screen per month ENTERPRISE € 37,90 + VAT&hellip;
@@ -116,9 +116,10 @@
 <td style="width: 203.297px;">
 <div id="comp-ks9560rr1" class="_1Q9if" data-testid="richTextElement">
 <p class="align-left"><strong>Features<br></strong><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Everything in Standard:</span></p>
+<p class="align-left"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Advanced Roles</span></p>
 </div>
 <div id="comp-ks9560ru" class="align-left">
-<div class="StylableButton1881452515__container align-left"><span class="StylableButton1881452515__label" data-testid="stylablebutton-label">Advanced Roles</span>
+<div class="StylableButton1881452515__container align-left">
 <div><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Folders Security</span></div>
 </div>
 </div>
@@ -151,6 +152,7 @@
 <div data-mesh-id="comp-kvnb462rinlineContent-gridContainer" data-testid="mesh-container-content">
 <div id="comp-ks9560ss3" class="align-left">
 <div class="StylableButton1881452515__container">
+<div> </div>
 <div><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Dynamic Data Mapping</span></div>
 </div>
 </div>

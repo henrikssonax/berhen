@@ -3,7 +3,7 @@
     <title>Berhen Group</title>
     <link href="https://berhen.com/feed.xml" rel="self" />
     <link href="https://berhen.com" />
-    <updated>2022-03-28T01:45:51+03:00</updated>
+    <updated>2022-03-28T01:56:45+03:00</updated>
     <author>
         <name>Berhen Group</name>
     </author>
@@ -17,19 +17,156 @@
         <link href="https://berhen.com/subscribe/"/>
         <id>https://berhen.com/subscribe/</id>
 
-        <updated>2022-03-28T01:45:51+03:00</updated>
+        <updated>2022-03-28T01:56:45+03:00</updated>
             <summary>
                 <![CDATA[
-                    Signon Std Signon Pro Signon Ent
+                    Everything in Standard: Advanced Roles Folders Security Approval Workflow View &amp; troubleshoot your device's OS remotely Proof-of-play Reporting Your branded portal (map your&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><button class="snipcart-add-item" data-item-id="10" data-item-name="Signon Digital Signage Standard" data-item-price="23.90" data-item-image="https://berhen.com/media/files/SignOnLogo.png" data-item-weight="10" data-item-url="https://berhen.com/subscribe/" data-item-description="Signon Digital Signage Standard"> Signon Std </button></p>
-<p><button class="snipcart-add-item" data-item-id="20" data-item-name="Signon Digital Signage Professional" data-item-price="29.90" data-item-image="https://berhen.com/media/files/SignOnLogo.png" data-item-weight="10" data-item-url="https://berhen.com/subscribe/" data-item-description="Signon Digital Signage Professional"> Signon Pro </button></p>
-<p><button class="snipcart-add-item" data-item-id="30" data-item-name="Signon Digital Signage Enterprise" data-item-price="37.90" data-item-image="https://berhen.com/media/files/SignOnLogo.png" data-item-weight="10" data-item-url="https://berhen.com/subscribe/" data-item-description="Signon Digital Signage Enterprise"> Signon Ent </button></p>
-<p> </p>
-<p> </p>
+                <p class="align-center"> </p>
+<table class="align-center" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.2855%;"><button class="snipcart-add-item" data-item-id="10" data-item-name="Signon Digital Signage Standard" data-item-price="23.90" data-item-image="https://berhen.com/media/files/SignOnLogo.png" data-item-weight="10" data-item-url="https://berhen.com/subscribe/" data-item-description="Signon Digital Signage Standard">Signon Std</button></td>
+<td style="width: 33.2855%;"><button class="snipcart-add-item" data-item-id="20" data-item-name="Signon Digital Signage Professional" data-item-price="29.90" data-item-image="https://berhen.com/media/files/SignOnLogo.png" data-item-weight="10" data-item-url="https://berhen.com/subscribe/" data-item-description="Signon Digital Signage Professional">Signon Pro</button></td>
+<td style="width: 33.2866%;"><button class="snipcart-add-item" data-item-id="30" data-item-name="Signon Digital Signage Enterprise" data-item-price="37.90" data-item-image="https://berhen.com/media/files/SignOnLogo.png" data-item-weight="10" data-item-url="https://berhen.com/subscribe/" data-item-description="Signon Digital Signage Enterprise">Signon Ent</button></td>
+</tr>
+<tr>
+<td style="width: 33.2855%;">
+<div id="comp-ks9560ql">
+<div class="StylableButton1881452515__container align-left"><span class="StylableButton1881452515__label" data-testid="stylablebutton-label">Image, Video, Document</span>
+<div><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Free Templates</span></div>
+</div>
+</div>
+<div id="comp-ks9560qm1" class="align-left">
+<div class="StylableButton1881452515__container">
+<div><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Canvas - Sign Design Tool</span></div>
+</div>
+</div>
+<div id="comp-ks9560qo" class="align-left">
+<div class="StylableButton1881452515__container">
+<div><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Playlist, Schedule</span></div>
+</div>
+</div>
+<div id="comp-ks9560qp" class="align-left">
+<div class="StylableButton1881452515__container">
+<div><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Manage screens remotely</span></div>
+</div>
+</div>
+<div id="comp-ks9560qq2" class="align-left">
+<div class="StylableButton1881452515__container">
+<div><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">from cloud portal</span></div>
+</div>
+</div>
+<div id="comp-ks9560qt" class="align-left">
+<div class="StylableButton1881452515__container"><span class="StylableButton1881452515__label" data-testid="stylablebutton-label">Work Offline</span>
+<div><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">All Apps</span></div>
+</div>
+</div>
+<div id="comp-ks9560qu1" class="align-left">
+<div class="StylableButton1881452515__container">
+<div><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Multi Screen Zones</span></div>
+</div>
+</div>
+<div id="comp-ks9560qx1" class="align-left">
+<div class="StylableButton1881452515__container">
+<div><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Unlimited Users</span></div>
+</div>
+</div>
+<div id="comp-ks9560qz" class="align-left">
+<div class="StylableButton1881452515__container">
+<div><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Unlimited Cloud Storage</span></div>
+</div>
+</div>
+<div id="comp-ks9560r02">
+<div class="StylableButton1881452515__container">
+<div class="align-left"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Background Music</span></div>
+</div>
+</div>
+</td>
+<td style="width: 33.2855%;">
+<div id="comp-ks9560rr1" class="_1Q9if" data-testid="richTextElement">
+<p class="font_8 align-left"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Everything in Standard:</span></p>
+</div>
+<div id="comp-ks9560ru" class="align-left">
+<div class="StylableButton1881452515__container align-left"><span class="StylableButton1881452515__label" data-testid="stylablebutton-label">Advanced Roles</span>
+<div><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Folders Security</span></div>
+</div>
+</div>
+<div id="comp-ks9560rv2" class="align-left">
+<div class="StylableButton1881452515__container">
+<div><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Approval Workflow</span></div>
+</div>
+</div>
+<div id="comp-ks9560rx" class="align-left">
+<div class="StylableButton1881452515__container">
+<div><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">View &amp; troubleshoot your</span></div>
+</div>
+</div>
+<div id="comp-ks9560rz2" class="align-left">
+<div class="StylableButton1881452515__container">
+<div><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">device's OS remotely</span></div>
+</div>
+</div>
+<div id="comp-ks9560s22" class="align-left">
+<div class="StylableButton1881452515__container"><span class="StylableButton1881452515__label" data-testid="stylablebutton-label">Proof-of-play Reporting</span>
+<div><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Your branded portal</span></div>
+</div>
+</div>
+<div id="comp-ks9560s4" class="align-left">
+<div class="StylableButton1881452515__container">
+<div><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">(map your own domain, bring</span></div>
+</div>
+</div>
+<div id="comp-ks9560s63">
+<div class="StylableButton1881452515__container align-left"><span class="StylableButton1881452515__label" data-testid="stylablebutton-label">logo, etc.)</span></div>
+</div>
+</td>
+<td class="align-center" style="width: 33.2866%;">
+<div id="comp-ks9560s92" class="_1ncY2">
+<div class="_13Lxq" data-testid="container-bg"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Everything in Pro:</span></div>
+</div>
+<div id="comp-kvnb462r" class="_1KV2M">
+<div class="" data-mesh-id="comp-kvnb462rinlineContent" data-testid="inline-content">
+<div data-mesh-id="comp-kvnb462rinlineContent-gridContainer" data-testid="mesh-container-content">
+<div id="comp-ks9560ss3">
+<div class="StylableButton1881452515__container"><span class="StylableButton1881452515__label" data-testid="stylablebutton-label">Single Sign On (SAML)</span>
+<div><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Dynamic Data Mapping</span></div>
+</div>
+</div>
+<div id="comp-ks9560sw2">
+<div class="StylableButton1881452515__container"><span class="StylableButton1881452515__label" data-testid="stylablebutton-label">Gated Website Auto Login</span></div>
+</div>
+<div id="comp-ks9560sy">
+<div class="StylableButton1881452515__container"><span class="StylableButton1881452515__label" data-testid="stylablebutton-label">Dashboard Login</span></div>
+</div>
+<div id="comp-ks9560sz1">
+<div class="StylableButton1881452515__container"><span class="StylableButton1881452515__label" data-testid="stylablebutton-label">Monitor &amp; Alert</span></div>
+</div>
+<div id="comp-ks9560t02">
+<div class="StylableButton1881452515__container"><span class="StylableButton1881452515__label" data-testid="stylablebutton-label">Security Logging</span></div>
+</div>
+<div id="comp-ks9560t2">
+<div class="StylableButton1881452515__container"><span class="StylableButton1881452515__label" data-testid="stylablebutton-label">(Optional) Managed Devices</span></div>
+</div>
+<div id="comp-ks9560t32">
+<div class="StylableButton1881452515__container"><span class="StylableButton1881452515__label" data-testid="stylablebutton-label">&amp; Device Replacement</span></div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div id="comp-ks9560qj1" class="_1Q9if align-center" data-testid="richTextElement"></div>
+<div id="comp-ks9560r02" class="align-center">
+<div class="StylableButton1881452515__container">
+<div> </div>
+</div>
+</div>
             ]]>
         </content>
     </entry>

@@ -12,7 +12,7 @@
         {
             "id": "https://berhen.com/holdings/",
             "url": "https://berhen.com/holdings/",
-            "title": "HOLDINGS",
+            "title": "Our engagements ",
             "summary": "Ab Softbreezze Ltd www.softbreeze.io QPON www.qpon.ax",
             "content_html": "<p>Ab Softbreezze Ltd<br><a href=\"http://www.softbreeze.io\">www.softbreeze.io</a></p>\n<p>QPON<br><a href=\"http://www.qpon.ax\">www.qpon.ax</a></p>\n<p> </p>",
             "author": {
@@ -21,7 +21,7 @@
             "tags": [
             ],
             "date_published": "2022-03-27T23:41:14+03:00",
-            "date_modified": "2022-03-27T23:41:14+03:00"
+            "date_modified": "2022-03-27T23:45:50+03:00"
         },
         {
             "id": "https://berhen.com/solutions/",
@@ -40,7 +40,7 @@
         {
             "id": "https://berhen.com/the-team/",
             "url": "https://berhen.com/the-team/",
-            "title": "THE TEAM",
+            "title": "The team",
             "summary": "Meet us Truly innovative teams are a bit ruthless with each other. They speak their mind and challenge ideas until they can make&hellip;",
             "content_html": "\n    <h2 id=\"meet-us\">\n      Meet us\n    </h2>\n\n  <p>\n    Truly innovative teams are a bit ruthless with each other. They speak their mind and challenge ideas until they can make them work.\n  </p>\n\n  <p>\n    \n  </p>\n\n  <p>\n    \n  </p>\n<hr class=\"separator separator--dots\" />\n\n    <h2 id=\"niklas\">\n      Niklas\n    </h2>\n\n  <p>\n    &nbsp; &nbsp; &nbsp; Meet the Executive Creative Director, Niklas Berlin\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://berhen.com/media/posts/1/ECD-NB-WWW.jpeg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://berhen.com/media/posts/1/responsive/ECD-NB-WWW-xs.jpeg 300w ,https://berhen.com/media/posts/1/responsive/ECD-NB-WWW-sm.jpeg 480w ,https://berhen.com/media/posts/1/responsive/ECD-NB-WWW-md.jpeg 768w ,https://berhen.com/media/posts/1/responsive/ECD-NB-WWW-lg.jpeg 1024w ,https://berhen.com/media/posts/1/responsive/ECD-NB-WWW-xl.jpeg 1360w ,https://berhen.com/media/posts/1/responsive/ECD-NB-WWW-2xl.jpeg 1600w\"  height=\"640\" width=\"640\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    Niklas responsible for providing creative insights to the company in designing and developing their projects. Niklas main responsibility is to design high-level concepts for Berhen Group Ab and our clients, and creating designs as per our client's requirements. <br><br>Most of the time, Niklas is engaged in creating and developing the overall creative strategy, he is also responsible for handling the recruitment and management systems.\n  </p>\n\n  <p>\n    \n  </p>\n\n  <p>\n    \n  </p>\n\n    <h2 id=\"andreas\">\n      Andreas\n    </h2>\n\n  <p>\n    Meet the Executive Business Manager, Andreas Henriksson\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://berhen.com/media/posts/1/CTIO-AH-WWW.jpeg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://berhen.com/media/posts/1/responsive/CTIO-AH-WWW-xs.jpeg 300w ,https://berhen.com/media/posts/1/responsive/CTIO-AH-WWW-sm.jpeg 480w ,https://berhen.com/media/posts/1/responsive/CTIO-AH-WWW-md.jpeg 768w ,https://berhen.com/media/posts/1/responsive/CTIO-AH-WWW-lg.jpeg 1024w ,https://berhen.com/media/posts/1/responsive/CTIO-AH-WWW-xl.jpeg 1360w ,https://berhen.com/media/posts/1/responsive/CTIO-AH-WWW-2xl.jpeg 1600w\"  height=\"640\" width=\"640\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    Andreas is responsible for developing business management goals and objectives that tend to growth and prosperity, design and implement business plans and strategies to promote the attainment of goals. Andreas main responsibility is to ensure that Berhen Group Ab has the adequate and suitable resources to complete our activities.\n  </p>\n\n  <p>\n    Most of the time, Andreas is engaged in developing and innovating the product and service portfolio, he is also responsible for ensuring customer feedback is heard and acted upon.\n  </p>",
             "author": {
@@ -49,7 +49,7 @@
             "tags": [
             ],
             "date_published": "2022-03-27T18:43:15+03:00",
-            "date_modified": "2022-03-27T23:31:16+03:00"
+            "date_modified": "2022-03-27T23:45:59+03:00"
         }
     ]
 }

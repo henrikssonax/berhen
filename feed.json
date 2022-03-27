@@ -14,14 +14,14 @@
             "url": "https://berhen.com/subscribe/",
             "title": "Subscribe",
             "summary": "Signon Std Signon Pro Signon Ent",
-            "content_html": "<p><button class=\"snipcart-add-item\" data-item-id=\"1\" data-item-name=\"Signon Digital Signage Standard\" data-item-price=\"29.00\" data-item-image=\"https://berhen.com/media/files/SignOnLogo.png\" data-item-weight=\"10\" data-item-url=\"https://berhen.com\" data-item-description=\"Signon Digital Signage Standard\"> Signon Std </button></p>\n<p><button class=\"snipcart-add-item\" data-item-id=\"2\" data-item-name=\"Signon Digital Signage Professional\" data-item-price=\"37.00\" data-item-image=\"https://berhen.com/media/files/SignOnLogo.png\" data-item-weight=\"10\" data-item-url=\"https://berhen.com\" data-item-description=\"Signon Digital Signage Professional\"> Signon Pro </button></p>\n<p><button class=\"snipcart-add-item\" data-item-id=\"3\" data-item-name=\"Signon Digital Signage Enterprise\" data-item-price=\"37.00\" data-item-image=\"https://berhen.com/media/files/SignOnLogo.png\" data-item-weight=\"10\" data-item-url=\"https://berhen.com\" data-item-description=\"Signon Digital Signage Enterprise\"> Signon Ent </button></p>\n<p> </p>\n<p> </p>",
+            "content_html": "<p><button class=\"snipcart-add-item\" data-item-id=\"10\" data-item-name=\"Signon Digital Signage Standard\" data-item-price=\"29.00\" data-item-image=\"https://berhen.com/media/files/SignOnLogo.png\" data-item-weight=\"10\" data-item-url=\"https://berhen.com\" data-item-description=\"Signon Digital Signage Standard\"> Signon Std </button></p>\n<p><button class=\"snipcart-add-item\" data-item-id=\"20\" data-item-name=\"Signon Digital Signage Professional\" data-item-price=\"37.00\" data-item-image=\"https://berhen.com/media/files/SignOnLogo.png\" data-item-weight=\"10\" data-item-url=\"https://berhen.com\" data-item-description=\"Signon Digital Signage Professional\"> Signon Pro </button></p>\n<p><button class=\"snipcart-add-item\" data-item-id=\"30\" data-item-name=\"Signon Digital Signage Enterprise\" data-item-price=\"37.00\" data-item-image=\"https://berhen.com/media/files/SignOnLogo.png\" data-item-weight=\"10\" data-item-url=\"https://berhen.com\" data-item-description=\"Signon Digital Signage Enterprise\"> Signon Ent </button></p>\n<p> </p>\n<p> </p>",
             "author": {
                 "name": "Berhen Group"
             },
             "tags": [
             ],
             "date_published": "2022-03-28T01:20:49+03:00",
-            "date_modified": "2022-03-28T01:33:32+03:00"
+            "date_modified": "2022-03-28T01:38:47+03:00"
         },
         {
             "id": "https://berhen.com/holdings/",

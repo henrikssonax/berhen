@@ -13,15 +13,15 @@
             "id": "https://berhen.com/subscribe/",
             "url": "https://berhen.com/subscribe/",
             "title": "Subscribe",
-            "summary": "Subscribe Signon Std",
-            "content_html": "<p><button class=\"snipcart-add-item\" data-item-id=\"1\" data-item-name=\"Signon Digital Signage Std\" data-item-price=\"5.00\" data-item-image=\"https://boring-bose-80b3c8.netlify.com/media/posts/1/responsive/2544765-1-md.png\" data-item-weight=\"10\" data-item-url=\"https://berhen.com\" data-item-description=\"Signon Digital Signage Std\"> Subscribe Signon Std </button></p>",
+            "summary": "Signon Std Signon Pro Signon Ent",
+            "content_html": "<p><button class=\"snipcart-add-item\" data-item-id=\"1\" data-item-name=\"Signon Digital Signage Standard\" data-item-price=\"29.00\" data-item-image=\"https://boring-bose-80b3c8.netlify.com/media/posts/1/responsive/2544765-1-md.png\" data-item-weight=\"10\" data-item-url=\"https://berhen.com\" data-item-description=\"Signon Digital Signage Standard\"> Signon Std </button></p>\n<p><button class=\"snipcart-add-item\" data-item-id=\"1\" data-item-name=\"Signon Digital Signage Professional\" data-item-price=\"37.00\" data-item-image=\"https://boring-bose-80b3c8.netlify.com/media/posts/1/responsive/2544765-1-md.png\" data-item-weight=\"10\" data-item-url=\"https://berhen.com\" data-item-description=\"Signon Digital Signage Professional\"> Signon Pro </button></p>\n<p><button class=\"snipcart-add-item\" data-item-id=\"1\" data-item-name=\"Signon Digital Signage Enterprise\" data-item-price=\"37.00\" data-item-image=\"https://boring-bose-80b3c8.netlify.com/media/posts/1/responsive/2544765-1-md.png\" data-item-weight=\"10\" data-item-url=\"https://berhen.com\" data-item-description=\"Signon Digital Signage Enterprise\"> Signon Ent </button></p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://berhen.com/media/posts/6/SignOnLogo.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://berhen.com/media/posts/6/responsive/SignOnLogo-xs.png 300w ,https://berhen.com/media/posts/6/responsive/SignOnLogo-sm.png 480w ,https://berhen.com/media/posts/6/responsive/SignOnLogo-md.png 768w ,https://berhen.com/media/posts/6/responsive/SignOnLogo-lg.png 1024w ,https://berhen.com/media/posts/6/responsive/SignOnLogo-xl.png 1360w ,https://berhen.com/media/posts/6/responsive/SignOnLogo-2xl.png 1600w\"  alt=\"\" width=\"1770\" height=\"704\"></figure>",
             "author": {
                 "name": "Berhen Group"
             },
             "tags": [
             ],
             "date_published": "2022-03-28T01:20:49+03:00",
-            "date_modified": "2022-03-28T01:20:49+03:00"
+            "date_modified": "2022-03-28T01:27:48+03:00"
         },
         {
             "id": "https://berhen.com/holdings/",

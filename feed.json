@@ -1,0 +1,40 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Berhen Group Ab",
+    "description": "",
+    "home_page_url": "https://berhen.com",
+    "feed_url": "https://berhen.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Berhen Group"
+    },
+    "items": [
+        {
+            "id": "https://berhen.com/our-solutions-2/",
+            "url": "https://berhen.com/our-solutions-2/",
+            "title": "OUR SOLUTIONS",
+            "content_html": "<figure class=\"post__image align-left\"><img loading=\"lazy\"  src=\"https://berhen.com/media/posts/3/SignOn-pris.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://berhen.com/media/posts/3/responsive/SignOn-pris-xs.png 300w ,https://berhen.com/media/posts/3/responsive/SignOn-pris-sm.png 480w ,https://berhen.com/media/posts/3/responsive/SignOn-pris-md.png 768w ,https://berhen.com/media/posts/3/responsive/SignOn-pris-lg.png 1024w ,https://berhen.com/media/posts/3/responsive/SignOn-pris-xl.png 1360w ,https://berhen.com/media/posts/3/responsive/SignOn-pris-2xl.png 1600w\"  alt=\"\" width=\"682\" height=\"980\"> </figure>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://berhen.com/media/posts/3/gallery/SignOn_Page_04_Image_0001.jpg\" data-size=\"3508x2481\"><img loading=\"lazy\" src=\"https://berhen.com/media/posts/3/gallery/SignOn_Page_04_Image_0001-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"509\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://berhen.com/media/posts/3/gallery/SignOn_Page_02_Image_0001.jpg\" data-size=\"3508x2481\"><img loading=\"lazy\" src=\"https://berhen.com/media/posts/3/gallery/SignOn_Page_02_Image_0001-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"509\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://berhen.com/media/posts/3/gallery/SignOn_Page_05_Image_0002.jpg\" data-size=\"3508x2481\"><img loading=\"lazy\" src=\"https://berhen.com/media/posts/3/gallery/SignOn_Page_05_Image_0002-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"509\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://berhen.com/media/posts/3/gallery/SignOn_Page_06_Image_0001.jpg\" data-size=\"3497x2473\"><img loading=\"lazy\" src=\"https://berhen.com/media/posts/3/gallery/SignOn_Page_06_Image_0001-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"509\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://berhen.com/media/posts/3/gallery/SignOn_Page_07_Image_0001.jpg\" data-size=\"3496x2473\"><img loading=\"lazy\" src=\"https://berhen.com/media/posts/3/gallery/SignOn_Page_07_Image_0001-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"509\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://berhen.com/media/posts/3/gallery/SignOn_Page_09_Image_0002.jpg\" data-size=\"742x600\"><img loading=\"lazy\" src=\"https://berhen.com/media/posts/3/gallery/SignOn_Page_09_Image_0002-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"582\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://berhen.com/media/posts/3/gallery/SignOn_Page_09_Image_0001.jpg\" data-size=\"800x568\"><img loading=\"lazy\" src=\"https://berhen.com/media/posts/3/gallery/SignOn_Page_09_Image_0001-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"511\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://berhen.com/media/posts/3/gallery/SignOn_Page_08_Image_0001.jpg\" data-size=\"762x534\"><img loading=\"lazy\" src=\"https://berhen.com/media/posts/3/gallery/SignOn_Page_08_Image_0001-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"505\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://berhen.com/media/posts/3/gallery/SignOn_Page_08_Image_0002.jpg\" data-size=\"642x450\"><img loading=\"lazy\" src=\"https://berhen.com/media/posts/3/gallery/SignOn_Page_08_Image_0002-thumbnail.jpg\" alt=\"\" width=\"642\" height=\"450\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Berhen Group"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-03-27T22:46:46+03:00",
+            "date_modified": "2022-03-27T22:59:32+03:00"
+        },
+        {
+            "id": "https://berhen.com/the-team/",
+            "url": "https://berhen.com/the-team/",
+            "title": "THE TEAM",
+            "summary": "NIKLAS &nbsp; &nbsp; &nbsp; Meet the Executive Creative Director, Niklas Berlin Niklas responsible for providing creative insights to the company in designing and&hellip;",
+            "content_html": "\n    <h2 id=\"niklas\">\n      NIKLAS\n    </h2>\n\n  <p>\n    &nbsp; &nbsp; &nbsp; Meet the Executive Creative Director, Niklas Berlin\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://berhen.com/media/posts/1/ECD-NB-WWW.jpeg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://berhen.com/media/posts/1/responsive/ECD-NB-WWW-xs.jpeg 300w ,https://berhen.com/media/posts/1/responsive/ECD-NB-WWW-sm.jpeg 480w ,https://berhen.com/media/posts/1/responsive/ECD-NB-WWW-md.jpeg 768w ,https://berhen.com/media/posts/1/responsive/ECD-NB-WWW-lg.jpeg 1024w ,https://berhen.com/media/posts/1/responsive/ECD-NB-WWW-xl.jpeg 1360w ,https://berhen.com/media/posts/1/responsive/ECD-NB-WWW-2xl.jpeg 1600w\"  height=\"640\" width=\"640\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    Niklas responsible for providing creative insights to the company in designing and developing their projects. Niklas main responsibility is to design high-level concepts for Berhen Group Ab and our clients, and creating designs as per our client's requirements. <br><br>Most of the time, Niklas is engaged in creating and developing the overall creative strategy, he is also responsible for handling the recruitment and management systems.\n  </p>\n\n    <h2 id=\"andreas\">\n      ANDREAS\n    </h2>\n\n  <p>\n    Meet the Executive Business Manager, Andreas Henriksson\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://berhen.com/media/posts/1/CTIO-AH-WWW.jpeg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://berhen.com/media/posts/1/responsive/CTIO-AH-WWW-xs.jpeg 300w ,https://berhen.com/media/posts/1/responsive/CTIO-AH-WWW-sm.jpeg 480w ,https://berhen.com/media/posts/1/responsive/CTIO-AH-WWW-md.jpeg 768w ,https://berhen.com/media/posts/1/responsive/CTIO-AH-WWW-lg.jpeg 1024w ,https://berhen.com/media/posts/1/responsive/CTIO-AH-WWW-xl.jpeg 1360w ,https://berhen.com/media/posts/1/responsive/CTIO-AH-WWW-2xl.jpeg 1600w\"  height=\"640\" width=\"640\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    Andreas is responsible for developing business management goals and objectives that tend to growth and prosperity, design and implement business plans and strategies to promote the attainment of goals. Andreas main responsibility is to ensure that Berhen Group Ab has the adequate and suitable resources to complete our activities.\n  </p>\n\n  <p>\n    Most of the time, Andreas is engaged in developing and innovating the product and service portfolio, he is also responsible for ensuring customer feedback is heard and acted upon.\n  </p>",
+            "author": {
+                "name": "Berhen Group"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-03-27T18:43:15+03:00",
+            "date_modified": "2022-03-27T18:43:15+03:00"
+        }
+    ]
+}
